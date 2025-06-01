@@ -1,5 +1,6 @@
 ### Custom ###
 *.psd
+*.bkp
 
 ### Altium ###
 # Previews Folders
