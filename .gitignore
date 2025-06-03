@@ -2,6 +2,7 @@
 *.psd
 *.bkp
 
+
 ### Altium ###
 # Previews Folders
 **/__Previews/
@@ -42,3 +43,20 @@ Backup of *.doc*
 
 # Visio autosave temporary files
 *.~vsd*
+
+
+### LTspice ###
+# gitignore template for LTspice
+# website: https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
+
+# Logfile
+# *.log
+
+# Simulation Outputs
+*.raw
+*.fft
+
+# Netlist
+*.net
+
+# End of https://www.toptal.com/developers/gitignore/api/ltspice

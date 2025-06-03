@@ -1,0 +1,342 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\AntovI\Desktop\Projects\702\702-pumpcontrol102\Simulations\+15V\15V.asc
+Start Time: Wed Mar  5 10:48:28 2025
+solver = Normal
+Maximum thread count: 12
+
+
+
+ERROR: Node N002 is floating and connected to current source I1
+
+WARNING: Less than two connections to node vref.  This node is used by v1.
+WARNING: Less than two connections to node vin.  This node is used by v2.
+Direct Newton iteration for .op point succeeded.
+.step run=0
+
+
+
+.step run=1
+
+
+
+.step run=2
+
+
+
+.step run=3
+
+
+
+.step run=4
+
+
+
+.step run=5
+
+
+
+.step run=6
+
+
+
+.step run=7
+
+
+
+.step run=8
+
+
+
+.step run=9
+
+
+
+.step run=10
+
+
+
+.step run=11
+
+
+
+.step run=12
+
+
+
+.step run=13
+
+
+
+.step run=14
+
+
+
+.step run=15
+
+
+
+.step run=16
+
+
+
+.step run=17
+
+
+
+.step run=18
+
+
+
+.step run=19
+
+
+
+.step run=20
+
+
+
+.step run=21
+
+
+
+.step run=22
+
+
+
+.step run=23
+
+
+
+.step run=24
+
+
+
+.step run=25
+
+
+
+.step run=26
+
+
+
+.step run=27
+
+
+
+.step run=28
+
+
+
+.step run=29
+
+
+
+.step run=30
+
+
+
+.step run=31
+
+
+
+.step run=32
+
+
+
+.step run=33
+
+
+
+.step run=34
+
+
+
+.step run=35
+
+
+
+.step run=36
+
+
+
+.step run=37
+
+
+
+.step run=38
+
+
+
+.step run=39
+
+
+
+.step run=40
+
+
+
+.step run=41
+
+
+
+.step run=42
+
+
+
+.step run=43
+
+
+
+.step run=44
+
+
+
+.step run=45
+
+
+
+.step run=46
+
+
+
+.step run=47
+
+
+
+.step run=48
+
+
+
+.step run=49
+
+
+
+.step run=50
+
+
+
+.step run=51
+
+
+
+.step run=52
+
+
+
+.step run=53
+
+
+
+.step run=54
+
+
+
+.step run=55
+
+
+
+.step run=56
+
+
+
+.step run=57
+
+
+
+.step run=58
+
+
+
+.step run=59
+
+
+
+.step run=60
+
+
+
+.step run=61
+
+
+
+.step run=62
+
+
+
+.step run=63
+tnom = 27
+temp = 27
+method = modified trap
+.step run=64
+
+
+Measurement: vout
+  step	AVG(vref*(1+r14/(r12*r13/(r12+r13))) + iadj*r14)	FROM	TO
+     1	14.94636364	0	1e-09
+     2	14.30274109	0	1e-09
+     3	14.30274109	0	1e-09
+     4	15.49365018	0	1e-09
+     5	15.49365018	0	1e-09
+     6	14.40922909	0	1e-09
+     7	14.40922909	0	1e-09
+     8	15.60013818	0	1e-09
+     9	15.60013818	0	1e-09
+    10	14.12199876	0	1e-09
+    11	14.12199876	0	1e-09
+    12	15.29784599	0	1e-09
+    13	15.29784599	0	1e-09
+    14	14.22848676	0	1e-09
+    15	14.22848676	0	1e-09
+    16	15.40433399	0	1e-09
+    17	15.40433399	0	1e-09
+    18	14.12199876	0	1e-09
+    19	14.12199876	0	1e-09
+    20	15.29784599	0	1e-09
+    21	15.29784599	0	1e-09
+    22	14.22848676	0	1e-09
+    23	14.22848676	0	1e-09
+    24	15.40433399	0	1e-09
+    25	15.40433399	0	1e-09
+    26	13.94125642	0	1e-09
+    27	13.94125642	0	1e-09
+    28	15.10204179	0	1e-09
+    29	15.10204179	0	1e-09
+    30	14.04774442	0	1e-09
+    31	14.04774442	0	1e-09
+    32	15.20852979	0	1e-09
+    33	15.20852979	0	1e-09
+    34	14.67482704	0	1e-09
+    35	14.67482704	0	1e-09
+    36	15.8967153	0	1e-09
+    37	15.8967153	0	1e-09
+    38	14.78433904	0	1e-09
+    39	14.78433904	0	1e-09
+    40	16.0062273	0	1e-09
+    41	16.0062273	0	1e-09
+    42	14.48895207	0	1e-09
+    43	14.48895207	0	1e-09
+    44	15.69535074	0	1e-09
+    45	15.69535074	0	1e-09
+    46	14.59846407	0	1e-09
+    47	14.59846407	0	1e-09
+    48	15.80486274	0	1e-09
+    49	15.80486274	0	1e-09
+    50	14.48895207	0	1e-09
+    51	14.48895207	0	1e-09
+    52	15.69535074	0	1e-09
+    53	15.69535074	0	1e-09
+    54	14.59846407	0	1e-09
+    55	14.59846407	0	1e-09
+    56	15.80486274	0	1e-09
+    57	15.80486274	0	1e-09
+    58	14.30307709	0	1e-09
+    59	14.30307709	0	1e-09
+    60	15.49398618	0	1e-09
+    61	15.49398618	0	1e-09
+    62	14.41258909	0	1e-09
+    63	14.41258909	0	1e-09
+    64	15.60349818	0	1e-09
+    65	15.60349818	0	1e-09
+
+Total elapsed time: 0.822 seconds.
+
