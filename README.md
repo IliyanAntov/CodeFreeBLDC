@@ -1,4 +1,4 @@
- <h1 align="center"> Система за управление на безчетков мотор за вакуумна помпа <br/>
+ <h1 align="center"> Система за управление на безчетков мотор <br/>
  Code-free BLDC pump motor driver
  </h1>
 
